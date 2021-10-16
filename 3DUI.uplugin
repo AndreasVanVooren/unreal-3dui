@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "3D UI Element",
+	"Description": "Plugin that allows for a 3D-like UI.",
+	"Category": "Widgets",
+	"CreatedBy": "Andreas Van Vooren",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ThreeDInterface",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
